@@ -9,7 +9,7 @@ const Social = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <i class="bx bxl-linkedin"></i>
+        <i className="bx bxl-linkedin"></i>
       </a>
       <a
         href="https://github.com/supernova276"
@@ -17,7 +17,7 @@ const Social = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <i class="uil uil-github-alt"></i>
+        <i className="uil uil-github-alt"></i>
       </a>
       <a
         href="https://leetcode.com/supernova2706/"
@@ -25,7 +25,7 @@ const Social = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <i class="bx bx-code-alt"></i>
+        <i className="bx bx-code-alt"></i>
       </a>
     </div>
   );
