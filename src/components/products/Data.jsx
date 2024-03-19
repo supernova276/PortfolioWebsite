@@ -1,6 +1,6 @@
-import Image1 from "../../assets/humanize.jpg";
-import Image2 from "../../assets/safalta.svg";
-import Image3 from "../../assets/poker.png";
+// import Image1 from "../../assets/humanize.jpg";
+// import Image2 from "../../assets/safalta.svg";
+// import Image3 from "../../assets/poker.png";n
 
 export const Data = [
   {

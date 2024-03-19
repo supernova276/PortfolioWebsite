@@ -7,7 +7,7 @@ import Header from "./components/header/Header";
 import Products from "./components/products/Products";
 import Qualification from "./components/qualification/Qualification";
 import Scrollup from "./components/scrollup/Scrollup";
-import Services from "./components/services/Services";
+// import Services from "./components/services/Services";
 import Skills from "./components/skills/Skills";
 import Testimonials from "./components/testimonials/Testimonials";
 
