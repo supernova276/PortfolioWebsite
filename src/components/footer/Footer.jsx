@@ -43,10 +43,10 @@ const Footer = () => {
             <i className="bx bxl-linkedin"></i>
           </a>
           <a
-            href="akshita.dixit2706@gmail.com"
+            href="mailto:akshita.dixit2706@gmail.com"
             className="footer__social-icon"
             target="_blank"
-            rel="noreferrer"
+            rel="noreferrer noopener"
           >
             <i class="bx bxl-gmail"></i>
           </a>

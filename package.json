@@ -1,7 +1,6 @@
 {
   "name": "portfolio-final",
   "version": "0.1.0",
-  "homepage": "https://supernova276.github.io/PortfolioWebsite",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
